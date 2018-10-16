@@ -1,1 +1,1 @@
-# Data-Structures-Program
+# Data Structure Program
